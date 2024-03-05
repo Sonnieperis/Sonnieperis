@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonnieperis
+- 👋 Hi, I’m Gathoni
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on github
