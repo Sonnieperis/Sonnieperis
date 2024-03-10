@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Gathoni
-- 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me via e-mail
