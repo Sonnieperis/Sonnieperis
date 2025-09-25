@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gathoni.
-- 🌱 Aspiring Software Engineer & Front-End Developer | 💻 Passionate About Tech & Creative Problem Solving.
+- 🌱 Software Engineer & Front-End Developer | 💻 Passionate About Tech & Creative Problem Solving.
   
 
 <!---
